@@ -4,4 +4,7 @@
 
 ## Список разделов
 
-01. Data Types And Cycles
+01. Data Types And Cycles 1
+02. Data Types and Cycles 2
+03. Python Basics
+
